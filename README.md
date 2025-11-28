@@ -1,6 +1,5 @@
 # Hi, I'm Haroon Hanif (@haroonhanif8)
 
-AWS Certified Solutions Architect & Cloud Practitioner  
 Linux enthusiast with a strong interest in open-source systems and cloud infrastructure
 
 ---
@@ -27,13 +26,6 @@ I enjoy simplifying complex technical challenges and making infrastructure easie
 - AWS architecture and optimization projects  
 - Linux server setups, scripting, and automation  
 - Cloud-focused technical initiatives
-
----
-
-## Get in Touch
-
-- LinkedIn: [linkedin.com/in/haroonhanif8](https://www.linkedin.com/in/haroonhanif8)  
-- Email: haroonhanif386@gmail.com
 
 ---
 
